@@ -1,0 +1,85 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+gfz2021xhpa|2021-11-28T10:52:13.6|-4.426000|-76.758000|101.9|||GFZ|gfz2021xhpa|Mw|7.42||Northern Peru|
+gfz2021sjuv|2021-09-19T12:23:19.31|-3.146000|-78.196000|56.0|||GFZ|gfz2021sjuv|mb|4.54||Peru-Ecuador Border Region|
+gfz2021relz|2021-09-02T08:42:19.61|-3.801000|-76.277000|115.3|||GFZ|gfz2021relz|mb|4.76||Northern Peru|
+gfz2021ravx|2021-08-31T09:11:11.27|-3.145000|-78.095000|95.4|||GFZ|gfz2021ravx|mb|4.55||Peru-Ecuador Border Region|
+gfz2021pxix|2021-08-15T05:40:02.82|-3.627000|-77.076000|93.2|||GFZ|gfz2021pxix|Mw|5.32||Peru-Ecuador Border Region|
+gfz2021nvrp|2021-07-16T20:42:49.97|-3.530000|-77.482000|10.0|||GFZ|gfz2021nvrp|mb|5.16||Peru-Ecuador Border Region|
+gfz2021jzda|2021-05-22T19:45:04.3|-3.489000|-77.415000|10.0|||GFZ|gfz2021jzda|mb|4.87||Peru-Ecuador Border Region|
+gfz2021irit|2021-05-04T08:01:47.11|-4.688000|-76.471000|102.8|||GFZ|gfz2021irit|mb|4.48||Northern Peru|
+gfz2021higs|2021-04-15T03:13:27.39|-2.914000|-75.655000|139.4|||GFZ|gfz2021higs|mb|4.59||Peru-Ecuador Border Region|
+gfz2021ctjy|2021-02-09T01:41:00.05|-5.404000|-77.192000|48.5|||GFZ|gfz2021ctjy|mb|5.02||Northern Peru|
+gfz2021cjet|2021-02-03T11:41:56.14|-3.049000|-77.652000|39.0|||GFZ|gfz2021cjet|mb|4.85||Peru-Ecuador Border Region|
+gfz2021amuh|2021-01-07T23:52:57.87|-4.492000|-75.418000|46.5|||GFZ|gfz2021amuh|mb|4.45||Northern Peru|
+gfz2020zbgk|2020-12-22T10:46:21.74|-3.777000|-77.662000|67.0|||GFZ|gfz2020zbgk|mb|4.49||Peru-Ecuador Border Region|
+gfz2020wgaf|2020-11-12T08:43:05.55|-4.684000|-77.237000|119.2|||GFZ|gfz2020wgaf|mb|4.25||Northern Peru|
+gfz2020vywg|2020-11-08T10:46:03.39|-5.650000|-76.424000|39.0|||GFZ|gfz2020vywg|mb|4.64||Northern Peru|
+gfz2020swte|2020-09-25T14:19:46.9|-2.755000|-76.667000|126.7|||GFZ|gfz2020swte|mb|4.45||Peru-Ecuador Border Region|
+gfz2020ldmh|2020-06-07T10:31:17.86|-3.976000|-76.967000|99.3|||GFZ|gfz2020ldmh|Mw|5.34||Northern Peru|
+gfz2020jcas|2020-05-09T04:27:40.14|-5.757000|-76.431000|44.3|||GFZ|gfz2020jcas|mb|4.53||Northern Peru|
+gfz2020iycn|2020-05-07T00:49:12.28|-5.682000|-76.597000|34.7|||GFZ|gfz2020iycn|Mw|5.28||Northern Peru|
+gfz2020ijzk|2020-04-29T07:20:27.31|-2.628000|-77.385000|10.0|||GFZ|gfz2020ijzk|mb|4.47||Peru-Ecuador Border Region|
+gfz2020cmoj|2020-02-05T07:57:26.09|-4.402000|-77.560000|56.7|||GFZ|gfz2020cmoj|mb|4.87||Northern Peru|
+gfz2020ccrl|2020-01-30T22:10:11.47|-3.668000|-75.284000|10.0|||GFZ|gfz2020ccrl|mb|4.93||Northern Peru|
+gfz2019sdvm|2019-09-16T05:54:19.51|-3.993000|-76.236000|94.3|||GFZ|gfz2019sdvm|mb|4.61||Northern Peru|
+gfz2019lynq|2019-06-19T23:03:01.49|-3.890000|-75.946000|121.2|||GFZ|gfz2019lynq|mb|4.97||Northern Peru|
+gfz2019kmfk|2019-05-29T23:40:24.16|-4.609000|-75.122000|151.9|||GFZ|gfz2019kmfk|mb|4.72||Northern Peru|
+gfz2019hmvb|2019-04-17T15:01:02.46|-5.106000|-78.067000|66.0|||GFZ|gfz2019hmvb|mb|5.18||Northern Peru|
+gfz2019fntu|2019-03-20T16:23:22.9|-2.749000|-77.307000|32.9|||GFZ|gfz2019fntu|mb|5.13||Peru-Ecuador Border Region|
+gfz2019bgsa|2019-01-18T21:27:01.84|-3.173000|-76.676000|108.2|||GFZ|gfz2019bgsa|Mw|5.63||Northern Peru|
+gfz2019agdz|2019-01-04T08:49:53.19|-2.785000|-76.321000|122.1|||GFZ|gfz2019agdz|Mw|4.78||Peru-Ecuador Border Region|
+gfz2019afgy|2019-01-03T21:11:52.69|-5.691000|-76.910000|60.6|||GFZ|gfz2019afgy|mb|4.85||Northern Peru|
+gfz2018uoxx|2018-10-20T18:42:26.2|-5.139000|-77.097000|138.1|||GFZ|gfz2018uoxx|mb|4.85||Northern Peru|
+gfz2018bqak|2018-01-23T23:54:53.94|-2.518000|-76.518000|120.8|||GFZ|gfz2018bqak|mb|4.6||Peru-Ecuador Border Region|
+gfz2017lxcl|2017-06-19T04:16:34.26|-3.672000|-76.834000|110.4|||GFZ|gfz2017lxcl|mb|4.54||Northern Peru|
+gfz2017hdpz|2017-04-12T14:14:11.24|-2.805000|-77.109000|137.4|||GFZ|gfz2017hdpz|mb|4.21||Peru-Ecuador Border Region|
+gfz2017fxap|2017-03-25T18:06:53.62|-4.483000|-76.866000|82.9|||GFZ|gfz2017fxap|mb|4.7||Northern Peru|
+gfz2017cepx|2017-01-31T23:38:28.02|-3.240000|-76.771000|51.1|||GFZ|gfz2017cepx|mb|4.94||Northern Peru|
+gfz2017acvr|2017-01-02T13:13:49.06|-4.864000|-76.311000|113.6|||GFZ|gfz2017acvr|Mw|5.86||Northern Peru|
+gfz2016tgnb|2016-09-30T22:35:48.3|-3.948000|-76.765000|106.5|||GFZ|gfz2016tgnb|mb|4.74||Northern Peru|
+gfz2016sdxb|2016-09-15T06:42:21.35|-6.302000|-76.502000|10.8|||GFZ|gfz2016sdxb|mb|4.5||Northern Peru|
+gfz2016rvai|2016-09-10T10:08:19.62|-5.559000|-76.945000|117.8|||GFZ|gfz2016rvai|Mw|6.06||Northern Peru|
+gfz2016lgbe|2016-06-08T20:18:27.95|-4.131000|-76.842000|100.9|||GFZ|gfz2016lgbe|mb|4.81||Northern Peru|
+gfz2016gzle|2016-04-09T07:15:09.88|-4.147000|-78.074000|10.0|||GFZ|gfz2016gzle|mb|4.81||Peru-Ecuador Border Region|
+gfz2016fqvc|2016-03-21T08:31:17.32|-5.447000|-78.052000|45.3|||GFZ|gfz2016fqvc|mb|4.39||Northern Peru|
+gfz2016bsmv|2016-01-25T08:28:11.28|-5.976000|-76.570000|54.9|||GFZ|gfz2016bsmv|mb|4.53||Northern Peru|
+gfz2015xrbu|2015-12-03T15:32:03.71|-3.037000|-75.476000|120.8|||GFZ|gfz2015xrbu|mb|4.73||Northern Peru|
+gfz2015ksjb|2015-06-02T08:22:39.03|-3.957000|-76.057000|114.8|||GFZ|gfz2015ksjb|mb|5.02||Northern Peru|
+gfz2015jvrp|2015-05-20T22:34:30.38|-3.001000|-77.590000|10.0|||GFZ|gfz2015jvrp|mb|5.1||Peru-Ecuador Border Region|
+gfz2015cglf|2015-02-01T23:33:00.42|-3.856000|-76.543000|109.0|||GFZ|gfz2015cglf|mb|5.01||Northern Peru|
+gfz2014vzbo|2014-11-09T13:26:47.3|-5.385000|-78.368000|48.6|||GFZ|gfz2014vzbo|mb|4.8||Northern Peru|
+gfz2014qimw|2014-08-21T08:09:57.84|-2.801000|-77.726000|120.5|||GFZ|gfz2014qimw|mb|4.34||Peru-Ecuador Border Region|
+gfz2014oxhs|2014-07-31T23:32:16.97|-6.209000|-76.789000|48.6|||GFZ|gfz2014oxhs|mb|4.54||Northern Peru|
+gfz2014elll|2014-03-05T04:25:44.12|-3.974000|-76.510000|109.5|||GFZ|gfz2014elll|mb|4.41||Northern Peru|
+gfz2013swzy|2013-09-26T17:44:17.63|-5.828000|-76.442000|24.5|||GFZ|gfz2013swzy|mb|4.86||Northern Peru|
+gfz2013nwxv|2013-07-17T12:59:18.27|-6.143000|-76.895000|10.0|||GFZ|gfz2013nwxv|mb|4.57||Northern Peru|
+gfz2013jgjd|2013-05-12T13:14:44.54|-3.183000|-77.835000|153.9|||GFZ|gfz2013jgjd|mb|4.4||Peru-Ecuador Border Region|
+gfz2013fduv|2013-03-15T05:34:21.86|-3.051000|-75.690000|140.7|||GFZ|gfz2013fduv|mb|4.3||Northern Peru|
+gfz2013dkbu|2013-02-18T04:51:48.59|-3.172000|-77.545000|10.0|||GFZ|gfz2013dkbu|mb|4.85||Peru-Ecuador Border Region|
+gfz2012zbqw|2012-12-22T16:02:41.84|-5.952000|-76.801000|12.2|||GFZ|gfz2012zbqw|mb|4.8||Northern Peru|
+gfz2012xivh|2012-11-28T03:09:48.58|-4.527000|-76.188000|109.3|||GFZ|gfz2012xivh|Mw|5.58||Northern Peru|
+gfz2012vabd|2012-10-25T20:49:36.94|-5.809000|-76.126000|25.4|||GFZ|gfz2012vabd|mb|5.31||Northern Peru|
+gfz2012pvne|2012-08-13T05:32:47.94|-5.603000|-76.805000|109.9|||GFZ|gfz2012pvne|mb|4.88||Northern Peru|
+gfz2012mzfu|2012-07-03T13:47:02.69|-4.010000|-76.201000|102.9|||GFZ|gfz2012mzfu|mb|5.04||Northern Peru|
+gfz2012ltdr|2012-06-16T00:19:40.13|-2.634000|-76.384000|10.0|||GFZ|gfz2012ltdr|mb|5.07||Peru-Ecuador Border Region|
+gfz2012goqe|2012-04-03T09:17:28.12|-5.997000|-77.163000|10.0|||GFZ|gfz2012goqe|mb|4.61||Northern Peru|
+gfz2012cxha|2012-02-11T04:44:28.12|-6.085000|-76.432000|10.0|||GFZ|gfz2012cxha|mb|4.6||Northern Peru|
+gfz2012cpue|2012-02-07T02:18:22.06|-3.619000|-77.369000|10.0|||GFZ|gfz2012cpue|mb|4.63||Peru-Ecuador Border Region|
+gfz2011vzlj|2011-11-09T18:22:54.97|-4.556000|-77.510000|10.0|||GFZ|gfz2011vzlj|mb|4.93||Northern Peru|
+gfz2011ujeu|2011-10-17T15:22:39.77|-5.403000|-77.290000|10.0|||GFZ|gfz2011ujeu|mb|4.64||Northern Peru|
+gfz2011onzd|2011-07-26T20:58:31.68|-2.613000|-76.758000|126.6|||GFZ|gfz2011onzd|mb|5.06||Peru-Ecuador Border Region|
+gfz2011olyp|2011-07-25T18:25:11.93|-5.326000|-76.694000|121.1|||GFZ|gfz2011olyp|mb|5.24||Northern Peru|
+gfz2011ibwd|2011-04-25T22:22:18.77|-2.707000|-77.713000|45.1|||GFZ|gfz2011ibwd|mb|4.84|||
+gfz2010yith|2010-12-13T13:05:32.84|-2.852000|-77.234000|108.1|||GFZ|gfz2010yith|mb|4.68|||
+gfz2010tudq|2010-10-09T14:04:48.03|-2.716000|-76.745000|118.7|||GFZ|gfz2010tudq|mb|5.1||Peru-Ecuador Border Region|
+gfz2010thky|2010-10-02T14:54:09.65|-4.302000|-76.259000|155.2|||GFZ|gfz2010thky|mb|4.53||Northern Peru|
+gfz2010npws|2010-07-13T19:27:50.52|-4.259000|-78.358000|114.3|||GFZ|gfz2010npws|mb|4.36||Peru-Ecuador Border Region|
+gfz2010mkuc|2010-06-26T18:40:09.35|-4.552000|-77.160000|55.6|||GFZ|gfz2010mkuc|mb|5.1||Northern Peru|
+gfz2010jshq|2010-05-19T04:15:43.15|-4.995000|-77.452000|123.9|||GFZ|gfz2010jshq|M|5.88||Northern Peru|
+gfz2010hcwi|2010-04-12T05:51:28.38|-4.376000|-77.376000|19.9|||GFZ|gfz2010hcwi|mb|4.68||Northern Peru|
+gfz2010dkxa|2010-02-18T16:21:05.52|-4.454000|-76.950000|115.1|||GFZ|gfz2010dkxa|mb|4.5||Northern Peru|
+gfz2009sdpg|2009-09-16T06:44:48.49|-2.895000|-77.843000|59.9|||GFZ|gfz2009sdpg|mb|4.49||Peru-Ecuador Border Region|
+gfz2009ikem|2009-04-30T11:45:39.6|-4.728000|-77.384000|108.8||||gfz2009ikem|mb|4.55||Northern Peru|
+gfz2008nhmm|2008-07-08T05:08:20.3|-3.500000|-77.900000|106.0|GEOFON||GFZ|gfz2008nhmm|mb|4.6||Peru-Ecuador Border Region|
+gfz2008jegq|2008-05-10T11:43:33.9|-5.400000|-76.600000|122.0|GEOFON||GFZ|gfz2008jegq|mb|4.4||Northern Peru|
+gfz2007qctl|2007-08-18T08:12:25.9|-5.800000|-77.200000|41.0|GEOFON||GFZ|gfz2007qctl|mb|4.7||Northern Peru|
