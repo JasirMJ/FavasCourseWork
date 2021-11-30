@@ -1,0 +1,76 @@
+#EventID|Time|Latitude|Longitude|Depth/km|Author|Catalog|Contributor|ContributorID|MagType|Magnitude|MagAuthor|EventLocationName|EventType
+gfz2021mpcc|2021-06-29T00:31:54.3|-23.887000|-64.127000|10.0|||GFZ|gfz2021mpcc|mb|4.64||Jujuy Province, Argentina|
+gfz2021ihfl|2021-04-28T18:58:52.23|-22.101000|-63.705000|538.2|||GFZ|gfz2021ihfl|mb|4.57||Salta Province, Argentina|
+gfz2021gsxq|2021-04-06T17:36:28.62|-24.016000|-64.235000|28.3|||GFZ|gfz2021gsxq|mb|4.63||Salta Province, Argentina|
+gfz2021edln|2021-02-28T19:21:48.21|-22.090000|-63.760000|536.2|||GFZ|gfz2021edln|mb|4.7||Salta Province, Argentina|
+gfz2020ywau|2020-12-19T14:13:56.2|-23.510000|-64.658000|10.0|||GFZ|gfz2020ywau|mb|4.68||Jujuy Province, Argentina|
+gfz2020xlrn|2020-11-29T16:40:45.61|-23.274000|-64.996000|10.0|||GFZ|gfz2020xlrn|Mw|5.7||Jujuy Province, Argentina|
+gfz2020umol|2020-10-18T11:36:58.82|-22.087000|-63.724000|533.4|||GFZ|gfz2020umol|mb|3.54||Salta Province, Argentina|
+gfz2020hxwx|2020-04-22T16:27:30.07|-23.817000|-64.532000|11.0|||GFZ|gfz2020hxwx|mb|4.33||Jujuy Province, Argentina|
+gfz2020hnbn|2020-04-16T18:17:48.38|-22.989000|-63.531000|111.1|||GFZ|gfz2020hnbn|mb|4.65||Salta Province, Argentina|
+gfz2020giza|2020-03-31T06:56:30.65|-23.592000|-64.281000|10.0|||GFZ|gfz2020giza|mb|4.64||Jujuy Province, Argentina|
+gfz2020fscb|2020-03-22T01:13:23.84|-23.757000|-64.515000|10.0|||GFZ|gfz2020fscb|mb|4.66||Jujuy Province, Argentina|
+gfz2020eagk|2020-02-27T01:25:27.67|-23.699000|-64.622000|10.0|||GFZ|gfz2020eagk|mb|5.0||Jujuy Province, Argentina|
+gfz2020bnsx|2020-01-22T17:50:17.76|-22.857000|-63.768000|539.5|||GFZ|gfz2020bnsx|mb|4.76||Salta Province, Argentina|
+gfz2020bnsq|2020-01-22T17:43:29.49|-22.873000|-63.783000|543.1|||GFZ|gfz2020bnsq|mb|4.94||Salta Province, Argentina|
+gfz2019tbny|2019-09-29T05:21:24.52|-22.822000|-63.766000|524.2|||GFZ|gfz2019tbny|mb|4.85||Salta Province, Argentina|
+gfz2019jcdi|2019-05-10T05:46:38.96|-23.815000|-63.749000|10.0|||GFZ|gfz2019jcdi|mb|4.54||Salta Province, Argentina|
+gfz2019fspy|2019-03-23T08:11:22.83|-22.737000|-63.719000|535.3|||GFZ|gfz2019fspy|mb|4.81||Salta Province, Argentina|
+gfz2019ducl|2019-02-23T16:34:12.64|-21.698000|-63.160000|37.3|||GFZ|gfz2019ducl|mb|4.8||Southern Bolivia|
+gfz2019dixc|2019-02-17T13:22:10.14|-23.618000|-64.694000|10.0|||GFZ|gfz2019dixc|mb|4.84||Jujuy Province, Argentina|
+gfz2018tirc|2018-10-03T02:54:52.43|-21.573000|-65.726000|299.1|||GFZ|gfz2018tirc|mb|4.78||Southern Bolivia|
+gfz2018glzz|2018-04-02T22:50:52.0000|-20.802000|-63.851000|580.1|||GFZ|gfz2018glzz|mb|4.15||Southern Bolivia|
+gfz2018glkn|2018-04-02T15:00:31.73|-20.682000|-63.017000|561.6|||GFZ|gfz2018glkn|mb|4.7||Southern Bolivia|
+gfz2018glhw|2018-04-02T13:40:33.69|-20.585000|-63.018000|537.6|||GFZ|gfz2018glhw|Mw|6.75||Southern Bolivia|
+gfz2018efzm|2018-03-02T04:42:15.72|-22.106000|-63.771000|537.1|||GFZ|gfz2018efzm|Mw|5.39||Salta Province, Argentina|
+gfz2017ecnm|2017-02-28T07:13:34.78|-22.797000|-63.690000|532.4|||GFZ|gfz2017ecnm|mb|4.62||Salta Province, Argentina|
+gfz2017ecno|2017-02-28T07:13:34.72|-22.755000|-63.759000|521.7|||GFZ|gfz2017ecno|mb|4.28||Salta Province, Argentina|
+gfz2017dazo|2017-02-13T05:31:15.9|-21.836000|-65.453000|284.6|||GFZ|gfz2017dazo|mb|4.65||Southern Bolivia|
+gfz2016yxop|2016-12-20T10:21:25.49|-21.639000|-65.671000|293.9|||GFZ|gfz2016yxop|mb|4.49||Southern Bolivia|
+gfz2016seli|2016-09-15T13:54:45.91|-22.865000|-63.743000|518.0|||GFZ|gfz2016seli|mb|4.36||Salta Province, Argentina|
+gfz2016rmxb|2016-09-05T23:23:57.52|-22.888000|-63.791000|536.6|||GFZ|gfz2016rmxb|mb|4.9||Salta Province, Argentina|
+gfz2016kmsz|2016-05-29T06:34:13.48|-20.476000|-63.181000|559.3|||GFZ|gfz2016kmsz|mb|4.57||Southern Bolivia|
+gfz2016kajw|2016-05-22T12:20:46.99|-22.460000|-64.203000|40.3|||GFZ|gfz2016kajw|Mw|5.24||Salta Province, Argentina|
+gfz2016fxhz|2016-03-24T21:49:17.44|-22.768000|-63.783000|482.5|||GFZ|gfz2016fxhz|mb|4.24||Salta Province, Argentina|
+gfz2016auny|2016-01-12T05:45:47.09|-20.651000|-63.168000|562.1|||GFZ|gfz2016auny|mb|4.27||Southern Bolivia|
+gfz2015xtsi|2015-12-05T02:10:00.85|-23.531000|-64.548000|10.0|||GFZ|gfz2015xtsi|mb|5.03||Jujuy Province, Argentina|
+gfz2015xspk|2015-12-04T11:32:44.75|-23.597000|-64.559000|46.0|||GFZ|gfz2015xspk|mb|4.76||Jujuy Province, Argentina|
+gfz2015xlck|2015-11-30T09:01:43.21|-23.545000|-64.559000|43.0|||GFZ|gfz2015xlck|mb|4.66||Jujuy Province, Argentina|
+gfz2015xkak|2015-11-29T18:52:51.77|-23.578000|-64.595000|19.5|||GFZ|gfz2015xkak|Mw|5.71||Jujuy Province, Argentina|
+gfz2015xevd|2015-11-26T22:33:08.36|-23.502000|-64.567000|46.7|||GFZ|gfz2015xevd|mb|4.91||Jujuy Province, Argentina|
+gfz2015wyti|2015-11-23T14:49:39.88|-22.186000|-63.819000|534.7|||GFZ|gfz2015wyti|mb|4.68||Salta Province, Argentina|
+gfz2015berb|2015-01-17T18:41:42.98|-22.277000|-63.142000|552.0|||GFZ|gfz2015berb|mb|5.28||Salta Province, Argentina|
+gfz2014vjoz|2014-11-01T02:06:14.55|-22.755000|-63.730000|519.5|||GFZ|gfz2014vjoz|mb|4.89||Salta Province, Argentina|
+gfz2014vhld|2014-10-30T21:51:16.72|-22.787000|-63.665000|523.3|||GFZ|gfz2014vhld|mb|5.06||Salta Province, Argentina|
+gfz2014oryw|2014-07-29T01:22:05.37|-23.512000|-63.635000|536.5|||GFZ|gfz2014oryw|mb|4.74||Salta Province, Argentina|
+gfz2013hbkq|2013-04-11T09:15:52.21|-23.689000|-64.570000|46.0|||GFZ|gfz2013hbkq|mb|4.5||Jujuy Province, Argentina|
+gfz2013gxsu|2013-04-09T08:49:09.82|-23.715000|-64.450000|15.2|||GFZ|gfz2013gxsu|mb|4.53||Jujuy Province, Argentina|
+gfz2012yxxu|2012-12-20T15:00:18.8|-22.835000|-63.735000|527.0|||GFZ|gfz2012yxxu|mb|4.86||Salta Province, Argentina|
+gfz2012wypz|2012-11-22T13:07:11.55|-22.815000|-63.744000|530.2|||GFZ|gfz2012wypz|mb|5.85||Salta Province, Argentina|
+gfz2012uyie|2012-10-24T22:05:50.32|-22.823000|-63.724000|525.8|||GFZ|gfz2012uyie|mb|4.36||Salta Province, Argentina|
+gfz2012poju|2012-08-09T07:53:16.76|-21.923000|-63.807000|530.6|||GFZ|gfz2012poju|mb|4.19||Southern Bolivia|
+gfz2012okhx|2012-07-23T20:51:08.33|-21.962000|-64.898000|624.3|||GFZ|gfz2012okhx|mb|3.97||Southern Bolivia|
+gfz2012lsvd|2012-06-15T20:01:23.59|-23.091000|-63.466000|116.6|||GFZ|gfz2012lsvd|mb|4.41||Salta Province, Argentina|
+gfz2012lpvn|2012-06-14T04:47:48.44|-22.881000|-63.761000|526.4|||GFZ|gfz2012lpvn|mb|4.64||Salta Province, Argentina|
+gfz2012ldzj|2012-06-07T17:06:47.11|-22.334000|-65.890000|250.2|||GFZ|gfz2012ldzj|mb|5.21||Jujuy Province, Argentina|
+gfz2012kudo|2012-06-02T07:52:54.09|-22.122000|-63.702000|528.5|||GFZ|gfz2012kudo|Mw|5.89||Salta Province, Argentina|
+gfz2012kuct|2012-06-02T07:31:09.4|-22.095000|-63.647000|518.3|||GFZ|gfz2012kuct|mb|4.78||Salta Province, Argentina|
+gfz2012jgvj|2012-05-11T19:26:30.41|-23.621000|-63.609000|541.3|||GFZ|gfz2012jgvj|mb|4.52||Salta Province, Argentina|
+gfz2012ilxh|2012-04-30T08:46:58.11|-22.054000|-63.787000|536.3|||GFZ|gfz2012ilxh|mb|4.11||Salta Province, Argentina|
+gfz2012cuct|2012-02-09T11:12:41.88|-22.000000|-63.860000|552.8|||GFZ|gfz2012cuct|mb|4.1||Southern Bolivia|
+gfz2011zqhh|2011-12-31T16:15:09.57|-23.330000|-64.204000|10.0|||GFZ|gfz2011zqhh|mb|5.21||Jujuy Province, Argentina|
+gfz2011jplh|2011-05-17T12:44:10.46|-23.530000|-63.627000|534.7|||GFZ|gfz2011jplh|mb|4.98||Salta Province, Argentina|
+gfz2011hbqk|2011-04-11T13:43:22.09|-22.396000|-65.863000|257.1|||GFZ|gfz2011hbqk|mb|4.22|||
+gfz2011cvcg|2011-02-10T00:41:17.38|-22.103000|-63.717000|521.1|||GFZ|gfz2011cvcg|mb|4.65|||
+gfz2011cfae|2011-02-01T05:18:38.51|-22.028000|-63.569000|506.3|||GFZ|gfz2011cfae|mb|4.95|||
+gfz2011alip|2011-01-07T04:55:57.27|-21.871000|-65.514000|288.8|||GFZ|gfz2011alip|mb|5.02|||
+gfz2010ited|2010-05-05T10:01:37.19|-22.109000|-63.768000|521.8|||GFZ|gfz2010ited|mb|4.57||Salta Province, Argentina|
+gfz2010fwlb|2010-03-25T11:32:24.51|-22.861000|-63.661000|523.7|||GFZ|gfz2010fwlb|mb|4.39||Salta Province, Argentina|
+gfz2010erkn|2010-03-08T11:47:23.13|-21.915000|-65.821000|246.9|||GFZ|gfz2010erkn|mb|4.68||Southern Bolivia|
+gfz2010cptb|2010-02-07T02:18:45.55|-22.665000|-63.712000|477.7|||GFZ|gfz2010cptb|mb|3.69||Salta Province, Argentina|
+gfz2010ahqi|2010-01-05T04:15:51.77|-23.610000|-63.694000|536.9|||GFZ|gfz2010ahqi|mb|4.7||Salta Province, Argentina|
+gfz2009vswm|2009-11-06T08:49:57.26|-23.482000|-64.527000|30.0|||GFZ|gfz2009vswm|mb|5.58||Jujuy Province, Argentina|
+gfz2009btwl|2009-01-26T03:01:44.59|-22.747000|-63.939000|526.7||||gfz2009btwl|mb|4.54||Salta Province, Argentina|
+gfz2008qutg|2008-08-27T04:42:03.7|-21.800000|-65.800000|240.0|GEOFON||GFZ|gfz2008qutg|mb|5.0||Southern Bolivia|
+gfz2008gtkk|2008-04-06T01:32:06.7|-22.100000|-63.800000|517.0|GEOFON||GFZ|gfz2008gtkk|mb|4.8||Salta Province, Argentina|
+gfz2007tabe|2007-09-28T13:56:35.6|-23.900000|-64.600000|650.0|GEOFON||GFZ|gfz2007tabe|mb|5.6||Jujuy Province, Argentina|
